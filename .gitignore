@@ -1,0 +1,52 @@
+# General system files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node.js (if you add npm packages later)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# WebStorm / JetBrains IDEs
+.idea/
+*.iml
+*.iws
+out/
+
+# HTML and CSS specific (if using temp folders)
+temp/
+*.tmp
+
+# Optional: OS files
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.swp
+*.swn
+*.swo
+*.tmp
+
+# Miscellaneous
+*.env
+*.DS_Store
